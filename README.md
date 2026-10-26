@@ -31,6 +31,20 @@ The instrument panel consists of a 300 × 200 mm MDF base designed in SolidWorks
 - Tachometer servomotor.
 - Momentary reset button.
 
+## Hardware Integration
+
+### Hall Sensor Mounting
+
+![Mounted Hall Sensor](images/hall-sensor.jpeg)
+
+### Wheel Magnet Layout
+
+![Wheel magnet position markings](images/wheel-magnet-layout.jpeg)
+
+### Instrument Panel Engineering Drawing
+
+![Dimensioned drawing of 300 x 200 mm panel, showing component positions and mounting openings](images/instrument-panel-blueprint.JPG)
+
 ## Software and Design Tools
 
 - Arduino C++.
