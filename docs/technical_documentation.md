@@ -23,6 +23,10 @@ The Hall sensor faces the wheel-mounted magnets without physical contact.
 
 ## Connections
 
+![Instrument panel wiring diagram](../images/wiring-diagram.png)
+
+Arduino Uno connections for the Hall sensor, LCD, tachometer servo and trip reset button.
+
 | Component signal | Arduino Uno pin |
 |---|---|
 | Hall sensor output | D2 |
