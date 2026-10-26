@@ -41,6 +41,8 @@ The instrument panel consists of a 300 × 200 mm MDF base designed in SolidWorks
 
 ![Wheel magnet position markings](images/wheel-magnet-layout.jpeg)
 
+Four marked mounting positions spaced 90° apart around the wheel, shown before magnet installation.
+
 ### Instrument Panel Engineering Drawing
 
 ![Dimensioned drawing of 300 x 200 mm panel, showing component positions and mounting openings](images/instrument-panel-blueprint.JPG)
