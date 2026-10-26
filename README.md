@@ -2,7 +2,7 @@
 
 Arduino Uno-based instrumentation for an electric go-kart, featuring travel distance measurement and motor RPM estimation.
 
-![Go-kart instrument panel](media/instrument-panel.jpg)
+![Go-kart instrument panel](media/instrument-panel.jpeg)
 
 ## Overview
 
